@@ -5,6 +5,13 @@ inside a house that is itself a giant music box — and the only way out
 is to play it.
 
 ![Title screen](screenshots/01-title.png)
+![The Winding Room](screenshots/02-winding-room.png)
+![The Sheet-Music Library](screenshots/03-sheet-music-library.png)
+![The Piano Parlor](screenshots/04-piano-parlor.png)
+![The Bell Tower](screenshots/05-bell-tower.png)
+![You escaped!](screenshots/06-you-escaped.png)
+
+![Gameplay](screenshots/gameplay.gif)
 
 ## Play
 
